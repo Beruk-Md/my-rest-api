@@ -3,7 +3,7 @@ const fs = require('fs')
 global.creator = 'Zeeoneofc'// yourname
 global.MONGO_DB_URI = "mongodb+srv://akunbiasabuatgame144:<password>@cluster0.0pntx9l.mongodb.net/?retryWrites=true&w=majority" //database mongodb 
 global.ACTIVATION_TOKEN_SECRET = "-@Pqnap+@(/1jAPPnew/@10" //isi apa aja bebas
-global.your_email = "api.berukofc.xyz" //email
+global.your_email = "api.berukofc.xyz@gmail.com" //email
 global.email_password = "igrtigexiqznbmog" //application password email
 global.limitCount = 10000
 global.YUOR_PORT = 8000
