@@ -2,11 +2,11 @@ const fs = require('fs')
 
 global.creator = 'BerukOfc'// yourname
 global.MONGO_DB_URI = "mongodb+srv://akunbiasabuatgame144:aAEl9EPFLQGTFYt8@cluster0.0pntx9l.mongodb.net/?retryWrites=true&w=majority" //database mongodb 
-global.ACTIVATION_TOKEN_SECRET = "-@Pqnap+@(/1jAPPnew/@10" //isi apa aja bebas
+global.ACTIVATION_TOKEN_SECRET = "((kon#$_-(899#" //isi apa aja bebas
 global.your_email = "api.berukofc.xyz@gmail.com" //email
 global.email_password = "igrtigexiqznbmog" //application password email
 global.limitCount = 10000
-global.YUOR_PORT = 8000
+global.YUOR_PORT = 3000
 global.loghandler = {
 	noapikey:{
 		status: 403,
